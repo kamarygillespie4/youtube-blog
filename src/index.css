@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Architects Daughter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #8e98bc;
+}
+
+img {
+  max-width: 100%;
+  margin: auto;
+}
